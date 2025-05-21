@@ -20,8 +20,9 @@ DB_CONFIG = {
 }
 
 OPENAI_MODEL = "gpt-xyz" 
+```
 
-### Running Locally
+## Running Locally
 
 ```sh
 uvicorn main:app --reload
