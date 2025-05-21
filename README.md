@@ -12,14 +12,14 @@ OLLAMA_URL = "http://localhost:11434/api/generate"
 LOCAL_MODEL = "llama3.2:latest"  # Your local Ollama model name
 
 DB_CONFIG = {
-    "dbname": "jmmi",
-    "user": "usernae",
+    "dbname": "dbname",
+    "user": "username",
     "password": "password",
     "host": "localhost",
     "port": 5432
 }
 
-OPENAI_MODEL = "gpt-4o-mini" 
+OPENAI_MODEL = "gpt-xyz" 
 
 ### Running Locally
 
