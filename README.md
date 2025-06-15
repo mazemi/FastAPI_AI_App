@@ -1,4 +1,4 @@
-A lightweight FastAPI backend for AI applications, using local Ollama models or ChatGPT API connected to PostgreSQL.
+A lightweight FastAPI backend for AI applications for natural language to SQL statement, using local Ollama models or ChatGPT API connected to PostgreSQL.
 
 ## Project Setup
 
